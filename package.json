@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/bcon_57_pixel-vikings/",
+    "build": "vite build --base=/html-css_bcon_57_pixel-vikings/",
     "preview": "vite preview"
   },
   "devDependencies": {
